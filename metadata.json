@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Laboratório Mãos à Obra",
+  "description": "Página de vendas de alta conversão para o Laboratório Mãos à Obra, oferecendo brinquedos caseiros e planos interativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
